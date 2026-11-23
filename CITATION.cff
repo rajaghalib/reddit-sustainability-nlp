@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or build on these findings, please cite it as below."
+title: "Sustainability Discourse on Reddit: Multi-Technique NLP Analysis"
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Raja Ghalib Hussain"
+    email: "engr.rajaghalib@gmail.com"
+repository-code: "https://github.com/rajaghalib/reddit-sustainability-nlp"
+url: "https://rajaghalib.co.uk"
+license: MIT
+date-released: "2026-11-23"
+keywords:
+  - natural language processing
+  - sentiment analysis
+  - topic modelling
+  - BERTopic
+  - RoBERTa
+  - Reddit
+  - sustainability
+preferred-citation:
+  type: thesis
+  thesis-type: "MSc dissertation"
+  title: "Understanding Reddit Community Views on Sustainability Discourse through Multi-Technique NLP Analysis"
+  authors:
+    - family-names: "Khan"
+      given-names: "Raja Ghalib Hussain"
+  institution:
+    name: "University of Hull"
+  year: 2026

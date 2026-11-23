@@ -1,0 +1,7 @@
+# Data and secrets are never committed
+data/
+*.csv
+*.parquet
+.env
+.ipynb_checkpoints/
+__pycache__/

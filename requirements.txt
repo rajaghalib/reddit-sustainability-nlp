@@ -1,0 +1,24 @@
+# Versions as installed in Google Colab; bertopic pinned as in the notebook
+praw
+pandas
+numpy
+tqdm
+matplotlib
+seaborn
+jupyter
+wordcloud
+emoji
+ftfy
+contractions
+langdetect
+vaderSentiment
+textblob
+nltk
+bertopic==0.16.4
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+scipy
+transformers
+torch
