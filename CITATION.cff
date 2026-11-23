@@ -6,6 +6,7 @@ authors:
   - family-names: "Khan"
     given-names: "Raja Ghalib Hussain"
     email: "engr.rajaghalib@gmail.com"
+    orcid: "https://orcid.org/0009-0007-8824-4921"
 repository-code: "https://github.com/rajaghalib/reddit-sustainability-nlp"
 url: "https://rajaghalib.co.uk"
 license: MIT
@@ -26,6 +27,7 @@ preferred-citation:
   authors:
     - family-names: "Khan"
       given-names: "Raja Ghalib Hussain"
+      orcid: "https://orcid.org/0009-0007-8824-4921"
   institution:
     name: "University of Hull"
   year: 2026
