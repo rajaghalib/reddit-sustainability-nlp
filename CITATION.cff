@@ -9,6 +9,7 @@ authors:
 repository-code: "https://github.com/rajaghalib/reddit-sustainability-nlp"
 url: "https://rajaghalib.co.uk"
 license: MIT
+doi: "10.5281/zenodo.24451524"
 date-released: "2026-11-23"
 keywords:
   - natural language processing

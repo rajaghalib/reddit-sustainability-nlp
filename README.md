@@ -5,6 +5,7 @@ Raja Ghalib Hussain Khan · [rajaghalib.co.uk](https://rajaghalib.co.uk) · [Lin
 
 An end-to-end NLP pipeline that collects three years of discussion from Reddit's **r/sustainability** community and analyses it on several dimensions at once: sentiment, subjectivity, emotion, topics, the practical actions people talk about, and the barriers they report. A lexicon-based sentiment model (VADER) is cross-checked against a transformer model (RoBERTa) to test how far the choice of tool changes the conclusions.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24451524.svg)](https://doi.org/10.5281/zenodo.24451524)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaghalib/reddit-sustainability-nlp/blob/main/notebooks/reddit_sustainability_nlp.ipynb)
 ![Python](https://img.shields.io/badge/Python-3-1E40AF?logo=python&logoColor=white)
 ![BERTopic](https://img.shields.io/badge/BERTopic-0.16.4-0F1B2D)
@@ -142,6 +143,8 @@ If this work is useful to you, please cite it. GitHub's **Cite this repository**
   url    = {https://github.com/rajaghalib/reddit-sustainability-nlp}
 }
 ```
+
+The code is archived on Zenodo with DOI [10.5281/zenodo.24451524](https://doi.org/10.5281/zenodo.24451524) (all versions).
 
 ## License
 
